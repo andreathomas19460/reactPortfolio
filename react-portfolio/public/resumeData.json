@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Andrea Thomas",
+    "occupation":"Residence Manager",
+    "description":"I'm a residence manager pursuing full-stack web development through the University of Washington.",
+    "image":"profilepic.png",
+    "bio":"After graduating with a Psychology degree from West Chester University of Pennsylvania, I returned to Seattle and signed on with a high-tech family of five and never looked back. I'm on track to graduate from a coding bootcamp with an emphasis on JavaScript and React app development.",
+    "contactmessage":"Contact is welcome!",
+    "email": "andrea.thomas19460@gmail.com",
+    "phone": "206.981.6458",
+    "address":{
+      "city":"Seattle",
+      "state":"WA"
+    },
+    "website": "https://github.com/andreathomas19460/andreathomas19460.github.io-Resume",
+    "resumedownload":"https://github.com/andreathomas19460/andreathomas19460.github.io-Resume/blob/master/AndreaThomasResume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrea-thomas-b73754147/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/anthom.studio/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/andreathomas19460",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have experience in customer service, childcare, and junior web development",
+    "education":[
+      {
+        "school":"University of Washington",
+        "degree":"Coding Bootcamp",
+        "graduated":"May 2020",
+        "description":"The coding bootcamp exposed me to over 80 technologies, which prepared me to seeking full-stack development"
+      },
+      {
+        "school":"West Chester University of Pennsylvania",
+        "degree":"Psychology",
+        "graduated":"June 2011",
+        "description":"Pursuing a degree in Psychology helped me gain invaluable human behavior knowledge and secure jobs in counseling and childcare."
+      }
+    ],
+    "work":[
+      {
+        "company":"Engrav Household",
+        "title":"Residence Manger",
+        "years":"May 2012 - Present",
+        "description":"Supervise daily internal and external functions. Health and safety management. Project coordination with contractors. Inventory, transportation, scheduling, and purchasing"
+      },
+      {
+        "company":"Alere Wellbeing",
+        "title":"Tobacco Cessation Counselor",
+        "years":"November 2011-May 2012",
+        "description":"Phone-based counselor for patients seeking tobacco cessation help. Operated inbound and outbound calls, while documenting patient info into company database for other coaches. Evaluated patient benefits via client contracts. Maintained call length as outlined by supervisors. HIPAA compliant."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"Node",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ComiCall",
+        "category":"Group-based app with Google Map for comic search",
+        "image":"comic.png",
+        "url":"https://github.com/maximilianc88/ComiCall"
+      },
+      {
+        "title":"SushiMe",
+        "category":"Group-produced flashcard app for learning sushi terms in Japanese",
+        "image":"sushiMe.png",
+        "url":"https://github.com/andreathomas19460/github.io-SushiMe"
+      },
+      {
+        "title":"Employee Tracker",
+        "category":"App built to manage employees",
+        "image":"Employee.png",
+        "url":"https://github.com/andreathomas19460/github.io-Employee-Tracker"
+      },
+      {
+        "title":"Planner",
+        "category":"App built for users to plan out the current day",
+        "image":"planner.png",
+        "url":"https://github.com/andreathomas19460/andreathomas19460.github.io-Planner"
+      },
+      {
+        "title":"Harry Potter Quiz",
+        "category":"(MVP Only) Quiz app that tests user knowledge of Harry Potter facts",
+        "image":"quiz.png",
+        "url":"https://github.com/andreathomas19460/andreathomas19460.github.io-Quiz"
+      },
+      {
+        "title":"Password Generator",
+        "category":"(MVP Only) App that generates a password from selected parameters",
+        "image":"password.png",
+        "url":"https://github.com/andreathomas19460/andreathomas19460.github.io-Password"
+      }
+    ]
+  }
+
+}
