@@ -2,9 +2,9 @@
   "main": {
     "name":"Andrea Thomas",
     "occupation":"Residence Manager",
-    "description":"I'm a residence manager pursuing full-stack web development through the University of Washington.",
+    "description":"I'm a residence manager pursuing full-stack web development through the University of Washington",
     "image":"profilepic.png",
-    "bio":"After graduating with a Psychology degree from West Chester University of Pennsylvania, I returned to Seattle and signed on with a high-tech family of five and never looked back. I'm on track to graduate from a coding bootcamp with an emphasis on JavaScript and React app development.",
+    "bio":"After graduating with a Psychology degree from West Chester University of Pennsylvania, I returned to Seattle and signed on with a high-tech family of five. I'm on track to graduate from a coding bootcamp with an emphasis on JavaScript and React app development.",
     "contactmessage":"Contact is welcome!",
     "email": "andrea.thomas19460@gmail.com",
     "phone": "206.981.6458",
@@ -56,7 +56,7 @@
     "work":[
       {
         "company":"Engrav Household",
-        "title":"Residence Manger",
+        "title":"Residence Manager",
         "years":"May 2012 - Present",
         "description":"Supervise daily internal and external functions. Health and safety management. Project coordination with contractors. Inventory, transportation, scheduling, and purchasing"
       },
