@@ -18,6 +18,7 @@ So I can obtain as many job opportunities as possible
 
 <img src = 'react-portfolio/public/images/screenshot.png'>
 
+
 ## How It Works
 
 * User runs 'npm install' for dependencies in the terminal
@@ -25,6 +26,8 @@ So I can obtain as many job opportunities as possible
 * User can view portfolio site
 
 ## Link
+
+https://chewy-react-app.herokuapp.com/
 
 https://andreathomas19460.github.io/reactPortfolio/
 
