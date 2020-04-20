@@ -16,7 +16,7 @@ So I can obtain as many job opportunities as possible
 ```
 ## Functionality GIF
 
-<img src = 'public/images/screenshot.png'>
+<img src = 'react-portfolio/public/images/screenshot.png'>
 
 ## How It Works
 
