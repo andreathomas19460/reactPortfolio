@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Andrea Thomas",
-    "occupation":"Residence Manager",
-    "description":"I'm a residence manager pursuing full-stack web development through the University of Washington",
+    "occupation":"Student",
+    "description":"I'm a student pursuing full-stack web development through the University of Washington",
     "image":"profilepic.png",
     "bio":"After graduating with a Psychology degree from West Chester University of Pennsylvania, I returned to Seattle and signed on with a high-tech family of five. I'm on track to graduate from a coding bootcamp with an emphasis on JavaScript and React app development.",
     "contactmessage":"Contact is welcome!",
